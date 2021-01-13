@@ -1,0 +1,21 @@
+{
+    "require": {
+        "typo3/cms-about": "^9.5",
+        "typo3/cms-adminpanel": "^9.5",
+        "typo3/cms-backend": "^9.5",
+        "typo3/cms-core": "^9.5",
+        "typo3/cms-extbase": "^9.5",
+        "typo3/cms-extensionmanager": "^9.5",
+        "typo3/cms-felogin": "^9.5",
+        "typo3/cms-filelist": "^9.5",
+        "typo3/cms-fluid": "^9.5",
+        "typo3/cms-fluid-styled-content": "^9.5",
+        "typo3/cms-frontend": "^9.5",
+        "typo3/cms-install": "^9.5",
+        "typo3/cms-recordlist": "^9.5",
+        "typo3/cms-rte-ckeditor": "^9.5",
+        "friendsoftypo3/extension-builder": "^9.10",
+        "typo3/cms-tstemplate": "^9.5",
+        "typo3/cms-introduction": "^4.0"
+    }
+}
