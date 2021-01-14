@@ -62,6 +62,9 @@ return [
         'extension_builder' => [
             'packagePath' => 'typo3conf/ext/extension_builder/',
         ],
+        'prof' => [
+            'packagePath' => 'typo3conf/ext/prof/',
+        ],
         'tmpl' => [
             'packagePath' => 'typo3conf/ext/tmpl/',
         ],

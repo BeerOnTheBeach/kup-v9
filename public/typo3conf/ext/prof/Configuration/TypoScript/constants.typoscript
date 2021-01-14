@@ -1,0 +1,15 @@
+
+plugin.tx_prof_berufe {
+    view {
+        # cat=plugin.tx_prof_berufe/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:prof/Resources/Private/Templates/
+        # cat=plugin.tx_prof_berufe/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:prof/Resources/Private/Partials/
+        # cat=plugin.tx_prof_berufe/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:prof/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_prof_berufe//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

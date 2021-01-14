@@ -1,0 +1,23 @@
+{
+    "name": "botb/prof",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Botb\\Prof\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Botb\\Prof\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "botb/prof": "self.version",
+        "typo3-ter/prof": "self.version"
+    }
+}

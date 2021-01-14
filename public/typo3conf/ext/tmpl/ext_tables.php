@@ -9,7 +9,7 @@ defined('TYPO3_MODE') || die();
  * Include Template-Package
  */
 ExtensionManagementUtility::addStaticFile(
-    '$_EXTKEY',
+    'tmpl',
     'Configuration/TypoScript',
     'Template-Package'
 );

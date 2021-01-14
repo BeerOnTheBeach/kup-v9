@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:prof/Resources/Private/Language/locallang_db" date="2021-01-14T21:30:41Z" product-name="prof">
+		<header/>
+		<body>
+			<trans-unit id="tx_prof_domain_model_profession" resname="tx_prof_domain_model_profession">
+				<source>Profession</source>
+			</trans-unit>
+			<trans-unit id="tx_prof_domain_model_profession.name" resname="tx_prof_domain_model_profession.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_prof_domain_model_profession.level" resname="tx_prof_domain_model_profession.level">
+				<source>Level</source>
+			</trans-unit>
+			<trans-unit id="tx_prof_domain_model_profession.image" resname="tx_prof_domain_model_profession.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_prof_berufe.name" resname="tx_prof_berufe.name">
+				<source>Berufe-Plugin</source>
+			</trans-unit>
+			<trans-unit id="tx_prof_berufe.description" resname="tx_prof_berufe.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/typo3conf/ext/prof" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610651666" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610651989" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610653476" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610653788" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610653832" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610654809" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610655367" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610655716" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610655748" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610655813" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/uploads/tx_extensionbuilder/backups/prof/2021-01-14-1610655850" vcs="Git" />
   </component>
 </project>

@@ -1,9 +1,10 @@
 public/typo3/
 public/typo3temp/
 vendor
-var/cache/
 
 #Extensions
 public/typo3conf/ext/extension_builder
 public/typo3conf/ext/introduction
 
+/var/
+/public/uploads/

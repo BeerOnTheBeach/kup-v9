@@ -1,0 +1,30 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<table class="tx-prof table" >
+	<tr>
+		<td>
+			<f:translate key="tx_prof_domain_model_profession.name" />
+		</td>
+		<td>
+		{profession.name}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_prof_domain_model_profession.level" />
+		</td>
+		<td>
+		{profession.level}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_prof_domain_model_profession.image" />
+		</td>
+		<td>
+            <f:if condition="{profession.image.originalResource.publicUrl}">
+                <f:image src="{profession.image.originalResource.publicUrl}" width="200"/>
+            </f:if>
+		</td>
+	</tr>
+</table>
+</html>

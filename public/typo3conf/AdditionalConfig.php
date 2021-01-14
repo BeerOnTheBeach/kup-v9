@@ -1,0 +1,1 @@
+$GLOBALS['TYPO3_CONF_VARS'][SYS]['displayErrors'] = 1;
