@@ -32,14 +32,10 @@ plugin.bootstrap_package.page {
     language {
         # cat=bootstrap package: language/168/language_enable; type=boolean; label=LanguageSection: Enable to display the LanguageSection at bottom
         enable = 0
-        # cat=bootstrap package: language/168/language_languageValue; type=string; label=Language Navigation Values: Comma separated list of language uids or set to 'auto' to load all enabled system languages
-        languageValue = auto
     }
 
     copyright {
         # cat=bootstrap package: copyright/169/120; type=boolean; label=Copyright: Enable to display the copyright
         enable = 0
-        # cat=bootstrap package: copyright/169/121; type=string; label=Copyright Text
-        text = Running with <a href="http://www.typo3.org" rel="noopener" target="_blank">TYPO3</a> and <a href="https://www.bootstrap-package.com" rel="noopener" target="_blank">Bootstrap Package</a>.
     }
 }
