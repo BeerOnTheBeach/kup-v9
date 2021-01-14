@@ -1,3 +1,0 @@
-<?php
-{"main":{"base":"http:\/\/localhost\/kup-v9\/public\/","errorHandling":[],"languages":[{"title":"German","enabled":true,"languageId":0,"base":null,"typo3Language":"default","locale":"de_DE.UTF-8","iso-639-1":"de","navigationTitle":"German","hreflang":"de-de","direction":"ltr","flag":"de"}],"rootPageId":1,"routes":[]}}
-#
