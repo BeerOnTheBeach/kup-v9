@@ -511,4 +511,28 @@ if (TYPO3_MODE === 'BE') {
     );
 }
 
+/**
+ * Extension: tmpl
+ * File: C:/xampp 7.3/htdocs/kup-v9/public/typo3conf/ext/tmpl/ext_tables.php
+ */
+
+$_EXTKEY = 'tmpl';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY] ?? null;
+
+
+
+use TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
+
+defined('TYPO3_MODE') || die();
+
+/***************
+ * TypoScript: Framework
+ * Include Template-Package
+ */
+ExtensionManagementUtility::addStaticFile(
+    '$_EXTKEY',
+    'Configuration/TypoScript',
+    'Template-Package'
+);
+
 #

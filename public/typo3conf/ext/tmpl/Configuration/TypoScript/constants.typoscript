@@ -1,0 +1,3 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:bootstrap_package/Configuration/TypoScript/constants.typoscript">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:tmpl/Configuration/TypoScript/Constants/constants.typoscript">
+

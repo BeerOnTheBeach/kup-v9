@@ -32,13 +32,13 @@
 page {
     logo {
         # cat=bootstrap package: logo/110/100; type=string; label=Logo: Leave blank to use website title from template instead
-        file = EXT:bootstrap_package/Resources/Public/Images/logo.png
+        file = EXT:bootstrap_package/Resources/Public/Images/BootstrapPackage.svg
         # cat=bootstrap package: logo/110/110; type=string; label=Logo Inverted: Leave blank to use website title from template instead
-        fileInverted = EXT:bootstrap_package/Resources/Public/Images/logo.png
+        fileInverted = EXT:bootstrap_package/Resources/Public/Images/BootstrapPackageInverted.svg
         # cat=bootstrap package: logo/110/120; type=int+; label=Height: The image will not be resized!
-        height = 300
+        height = 52
         # cat=bootstrap package: logo/110/130; type=int+; label=Width: The image will not be resized!
-        width = 450
+        width = 180
         # cat=bootstrap package: logo/110/140; type=string; label=Alternative text: Text of the alt attribute of the logo image (default: "<website title> logo")
         alt =
         # cat=bootstrap package: logo/110/150; type=string; label=Link title: Title of the link attribute of the logo image
@@ -155,7 +155,7 @@ page {
 
         language {
             # cat=bootstrap package: language/168/language_enable; type=boolean; label=LanguageSection: Enable to display the LanguageSection at bottom
-            enable = 0
+            enable = 1
             # cat=bootstrap package: language/168/language_languageValue; type=string; label=Language Navigation Values: Comma separated list of language uids or set to 'auto' to load all enabled system languages
             languageValue = auto
         }
@@ -224,7 +224,7 @@ page {
 
         copyright {
             # cat=bootstrap package: copyright/169/120; type=boolean; label=Copyright: Enable to display the copyright
-            enable = 0
+            enable = 1
             # cat=bootstrap package: copyright/169/121; type=string; label=Copyright Text
             text = Running with <a href="http://www.typo3.org" rel="noopener" target="_blank">TYPO3</a> and <a href="https://www.bootstrap-package.com" rel="noopener" target="_blank">Bootstrap Package</a>.
         }
